@@ -1,0 +1,9 @@
+{
+  "name": "cadence-health-media-site",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "qa": "node scripts/qa.mjs",
+    "serve": "node scripts/serve.mjs"
+  }
+}
