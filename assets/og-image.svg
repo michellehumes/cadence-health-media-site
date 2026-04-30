@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" role="img" aria-label="Cadence Health Media HCP media strategy">
+  <rect width="1200" height="630" fill="#fbfaf7"/>
+  <rect x="72" y="72" width="1056" height="486" rx="16" fill="#ffffff" stroke="#d9dedb"/>
+  <text x="112" y="158" fill="#b9503f" font-family="Arial, sans-serif" font-size="28" font-weight="700">CADENCE HEALTH MEDIA</text>
+  <text x="112" y="270" fill="#172126" font-family="Arial, sans-serif" font-size="72" font-weight="800">HCP media strategy,</text>
+  <text x="112" y="354" fill="#172126" font-family="Arial, sans-serif" font-size="72" font-weight="800">planning, and measurement</text>
+  <text x="112" y="432" fill="#5b6870" font-family="Arial, sans-serif" font-size="34">Healthcare and pharma media consulting built for cleaner execution.</text>
+  <rect x="112" y="486" width="230" height="58" rx="8" fill="#0b4f4a"/>
+  <text x="142" y="524" fill="#ffffff" font-family="Arial, sans-serif" font-size="24" font-weight="700">Book a strategy call</text>
+  <circle cx="956" cy="220" r="54" fill="#0f766e"/>
+  <circle cx="1028" cy="330" r="54" fill="#c18f27"/>
+  <circle cx="888" cy="348" r="54" fill="#2b5d7e"/>
+  <path d="M956 220 1028 330 888 348Z" fill="none" stroke="#172126" stroke-width="8" opacity="0.45"/>
+</svg>
